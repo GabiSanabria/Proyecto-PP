@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-04-26T19:59:37.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fHOJdZS7A6XaC87vbHld" version="24.3.1" type="google">
+  <diagram name="Página-1" id="k8dg88MN7bhF5l0lJWCx">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Buena atención al usuario.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Se enfoca más en la ayuda a creación de proyectos a nivel local (Argentina).&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Utiliza la metodología&amp;nbsp;Startup.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Función&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;dentro de la pagina que funcione como BrainStorming.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Servicio por el momento limitado a otros países.&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Costos Ajustados.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="220" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Evaluación de comentarios de los usuarios para ir mejorando cada vez mas la Pagina Web.&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-5" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Competencia&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;La seguridad de los datos no es segura.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Poca Publicidad.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="920" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="540" as="sourcePoint" />
+            <mxPoint x="800" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-8" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Fortalezas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-9" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Debilidades&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-10" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Oportunidades&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3Wy7qK3kYLv-RAvfsXBO-11" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Amenazas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="560" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
